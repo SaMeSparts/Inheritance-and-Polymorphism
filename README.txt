@@ -27,5 +27,3 @@ Design decisions:
 Everything is organized in `.h` and `.cpp` files.
 - All header files are in the `include` folder.
 - All source code is in the `src` folder.
-
-End of file.
